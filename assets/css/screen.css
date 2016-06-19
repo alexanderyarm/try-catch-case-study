@@ -1,0 +1,6 @@
+@import 'node_modules/normalize.css/normalize.css';
+@import 'assets/css/vars.css';
+
+.ng-cloak {
+    display: none !important;
+}
