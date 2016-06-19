@@ -1,0 +1,24 @@
+{
+  "name": "try-catch-case-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prestart": "npm i",
+    "start": "node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderyarm/try-catch-case-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderyarm/try-catch-case-study/issues"
+  },
+  "homepage": "https://github.com/alexanderyarm/try-catch-case-study#readme"
+}
